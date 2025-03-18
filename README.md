@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ivarsjosel
 - 👀 I’m a biotechnology student in Universitat de València and interested in learning bioinformatics and programming ...
 - 🌱 I’m currently learning how to use python and r ...
--  
 - 📫 How to reach me ivarsjosel@gmail.com
 
 
